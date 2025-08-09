@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-spr1-HW/static/css/main.117780bb.css",
-    "main.js": "/react-spr1-HW/static/js/main.a060c60e.js",
+    "main.js": "/react-spr1-HW/static/js/main.99fa7c9b.js",
     "static/js/787.177e23c2.chunk.js": "/react-spr1-HW/static/js/787.177e23c2.chunk.js",
     "index.html": "/react-spr1-HW/index.html",
     "main.117780bb.css.map": "/react-spr1-HW/static/css/main.117780bb.css.map",
-    "main.a060c60e.js.map": "/react-spr1-HW/static/js/main.a060c60e.js.map",
+    "main.99fa7c9b.js.map": "/react-spr1-HW/static/js/main.99fa7c9b.js.map",
     "787.177e23c2.chunk.js.map": "/react-spr1-HW/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.117780bb.css",
-    "static/js/main.a060c60e.js"
+    "static/js/main.99fa7c9b.js"
   ]
 }
